@@ -1,0 +1,12 @@
+{
+  "name": "caesar_cipher",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/OKuts/caesar_cipher.git",
+  "author": "Ol_Kuts <kuts.ol.vas@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^8.3.0",
+    "minimist": "^1.2.5"
+  }
+}
